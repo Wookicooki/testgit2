@@ -1,2 +1,4 @@
 git test1
-git test
+git 처음 배우기
+
+내용 추가하기
